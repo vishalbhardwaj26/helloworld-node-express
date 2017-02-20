@@ -13,6 +13,7 @@ MongoClient.connect('mongodb://mongodb:mongodb@ds157539.mlab.com:57539/helloworl
     db = database
     app.listen(3000, () => {
         console.log('listening on 3000')
+        console.log('Changes on server.js!')
     })
 })
 
