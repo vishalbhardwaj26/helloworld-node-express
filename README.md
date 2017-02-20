@@ -1,6 +1,6 @@
 # helloworld-node-express
 
-## how to run
+## How to run
 * node server.js - to run server
 * navigate to localhost:3000
 
